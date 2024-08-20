@@ -91,7 +91,7 @@ roslaunch planning_core carla_setup.launch
 ### Start gp_planner 
 
 ```
-roslaunch planning_core planning.launch
+roslaunch planning_core planning.launch 
 ```
 
 <p align="center">
